@@ -3,6 +3,8 @@
 --------------------------------------------------------------------------------
 
 Special Recommendation by Yash: https://github.com/fastai/fastai_old/blob/master/dev_nb/001a_nn_basics.ipynb
+This is now also available on https://pytorch.org/tutorials/beginner/nn_tutorial.html
+
 
 
 This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
